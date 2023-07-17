@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(41, 41, 41);
+    background-color: rgb(53, 53, 53);
     color: antiquewhite;
 }
 
@@ -23,6 +23,8 @@ body {
     text-decoration: none;
     padding: 15px 35px;
     border: 1px solid lightgreen;
+    display: inline-block;
+    margin-bottom: 20px;
     /* margin: 0 auto; */
 }
 
