@@ -1,0 +1,1 @@
+a = "this is robot a"
